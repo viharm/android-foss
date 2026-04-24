@@ -441,6 +441,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Ente Photos**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/packages/io.ente.photos.fdroid)]**</sup>
 * [**Fossify Gallery**](https://github.com/FossifyOrg/Gallery) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.gallery)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.gallery)]**</sup>
 * [**Gallery**](https://github.com/IacobIonut01/Gallery) <sup>**[[F-Droid](https://f-droid.org/packages/com.dot.gallery)]**</sup>
+* [**Immich**](https://github.com/immich-app/immich) <sup>**[[F-Droid](https://f-droid.org/packages/app.alextran.immich)]**</sup>
 * [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.stingle.photos)]**</sup>
 
 ### • Keyboard
@@ -497,6 +498,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**CoMaps**](https://codeberg.org/comaps/comaps) <sup>**[[F-Droid](https://f-droid.org/packages/app.comaps.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.comaps)]**</sup>
 * [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://f-droid.org/packages/com.bobek.compass)]**</sup>
 * [**Geo Share**](https://github.com/jakubvalenta/geoshare) <sup>**[[F-Droid](https://f-droid.org/packages/page.ooooo.geoshare)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/page.ooooo.geoshare)]**</sup>
+* [**GraphHopper Maps**](https://github.com/boldtrn/graphhopper-maps-capacitor) <sup>**[[F-Droid](https://f-droid.org/packages/com.graphhopper.maps)]**</sup>
 * [**MBCompass**](https://github.com/MubarakNative/MBCompass) <sup>**[[F-Droid](https://f-droid.org/packages/com.mubarak.mbcompass)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.mubarak.mbcompass)]**</sup>
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/packages/org.nitri.opentopo)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/packages/app.organicmaps)]**</sup>
@@ -510,6 +512,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Media Frontends
 
 * [**Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious)]**</sup>
+* [**Flow**](https://github.com/A-EDev/Flow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.github.libretube)]**</sup>
 * [**FreeTube Android**](https://github.com/MarmadileManteater/FreeTubeAndroid) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.freetubeapp.freetube)]**</sup>
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.jellyfin.mobile)]**</sup>
 * [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.libretube)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.github.libretube)]**</sup>
@@ -519,6 +522,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**LearnTube**](https://github.com/akshvaishnav21/LearnTube) <sup>**[[F-Droid](https://f-droid.org/packages/com.learntube.app)]**</sup>
     * [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup>
     * [**Tubular**](https://github.com/polymorphicshade/Tubular) <sup>**[[F-Droid](https://f-droid.org/packages/org.polymorphicshade.tubular)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.polymorphicshade.tubular)]**</sup>
+* [**PeerTube**](https://framagit.org/framasoft/peertube/mobile-application) <sup>**[[F-Droid](https://f-droid.org/en/packages/org.framasoft.peertube)]**</sup>
 * [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/packages/free.rm.skytube.oss)]**</sup>
 * [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/packages/com.perflyst.twire)]**</sup>
 * [**Xtra**](https://github.com/crackededed/Xtra) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.andreyasadchy.xtra)]**</sup>
